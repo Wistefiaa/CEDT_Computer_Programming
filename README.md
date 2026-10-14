@@ -20,7 +20,4 @@ This repository is organized by problem topics covering fundamental programming 
 | **07_Set** | Sets | Set operations, distinct elements, and unique value tracking with `std::set` |
 | **08_Map** | Maps & Lookup | Key-value mapping, frequency counting, and associative lookups with `std::map` |
 | **09_Recur** | Recursion | Recursive functions, divide and conquer, and recurrence relations |
-
----
-
-You can see problem in this [drive](https://drive.google.com/drive/folders/1VCiYHI-WECqd6qg945ZdfRDbLRb4hxzZ).
+-----------------------------------------------------------------------------------------------------------------
