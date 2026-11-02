@@ -15,7 +15,7 @@ int main() {
     cin.tie(NULL);
     int a, k, m;
     cin>>a>>k>>m;
-    powerMod(a, k, m);
+    cout<<powerMod(a, k, m);
     
     return 0;
 }
